@@ -67,7 +67,7 @@ gitalk:
   clientSecret: e5fc3c7fc5a9216e3c161aa07dce4844fcf4f5a1    #生成的clientSecret
   repo: main2019.github.io    #仓库名称
   owner: main2019    #github用户名
-  admin: main2019 //这个仓库的管理员，可以有多个，用数组表示，一般写自己
+  admin: main2019 #这个仓库的管理员，可以有多个，用数组表示，一般写自己
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
